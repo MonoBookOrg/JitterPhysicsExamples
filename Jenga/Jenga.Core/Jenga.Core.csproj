@@ -57,7 +57,7 @@
     <Compile Include="GameMain.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\JitterPhysicsPCL\JitterPhysics\Jitter.csproj">
+    <ProjectReference Include="..\..\JitterPhysicsPCL\JitterPhysics\Jitter.csproj">
       <Project>{3FA0A544-FD18-4BC4-8009-E880DC6939DE}</Project>
       <Name>Jitter</Name>
     </ProjectReference>

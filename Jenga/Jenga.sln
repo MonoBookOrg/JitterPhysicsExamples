@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jenga.Core", "Jenga.Core\Jenga.Core.csproj", "{EFC4044B-B43E-4E7D-BFAE-0CB17935AADA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jitter", "..\..\JitterPhysicsPCL\JitterPhysics\Jitter.csproj", "{3FA0A544-FD18-4BC4-8009-E880DC6939DE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jenga.MonoMac", "Jenga.MonoMac\Jenga.MonoMac.csproj", "{C539D803-7EF2-4316-9654-A6362C742FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jitter", "..\JitterPhysicsPCL\JitterPhysics\Jitter.csproj", "{3FA0A544-FD18-4BC4-8009-E880DC6939DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
